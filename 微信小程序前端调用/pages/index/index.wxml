@@ -1,0 +1,10 @@
+<view class='container'>
+ <text> do {{a}} </text> 
+<text> re {{b}} </text>
+<text> mi {{c}} </text>
+<text> so {{d}} </text>
+<text> la {{e}} </text>
+ <button hover-class="button-hover" bindtap="tapName" >刷新</button>
+</view>
+
+
